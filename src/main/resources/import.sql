@@ -1,0 +1,14 @@
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (1, 'Dune', 'Frank Herbert', 'Science Fiction', 12.99, '1965-08-01', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (2, 'Foundation', 'Isaac Asimov', 'Science Fiction', 10.50, '1951-06-01', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (3, 'I, Robot', 'Isaac Asimov', 'Science Fiction', 9.99, '1950-12-02', false);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (4, 'Neuromancer', 'William Gibson', 'Science Fiction', 11.25, '1984-07-01', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (5, 'The Hobbit', 'J.R.R. Tolkien', 'Fantasy', 14.99, '1937-09-21', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (6, 'The Fellowship of the Ring', 'J.R.R. Tolkien', 'Fantasy', 15.99, '1954-07-29', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (7, 'A Game of Thrones', 'George R.R. Martin', 'Fantasy', 13.49, '1996-08-01', false);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (8, 'Mistborn', 'Brandon Sanderson', 'Fantasy', 12.75, '2006-07-17', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (9, 'Gone Girl', 'Gillian Flynn', 'Thriller', 10.99, '2012-06-05', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (10, 'The Silent Patient', 'Alex Michaelides', 'Thriller', 9.49, '2019-02-05', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (11, 'Sapiens', 'Yuval Noah Harari', 'Non-Fiction', 16.99, '2011-01-01', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (12, 'Educated', 'Tara Westover', 'Non-Fiction', 13.99, '2018-02-20', false);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (13, 'Atomic Habits', 'James Clear', 'Non-Fiction', 11.49, '2018-10-16', true);
+INSERT INTO Book (id, title, author, genre, price, publishedDate, inStock) VALUES (14, 'Children of Time', 'Adrian Tchaikovsky', 'Science Fiction', 12.25, '2015-06-18', true);
